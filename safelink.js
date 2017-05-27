@@ -131,7 +131,7 @@ function auto_safeconvert() {
         }
         if (a_to_vh == false) {
             var encryptedUrl = Base64.encode(a_to_vi);
-            a_to_ve[i].href = "http://lewatlinknya.blogspot.com/p/blog-page_25.html?url=" + encryptedUrl;
+            a_to_ve[i].href = "http://lewatlinknya.blogspot.co.id/p/go.html?url=" + encryptedUrl;
             a_to_ve[i].rel = "nofollow";
             a_to_vb++;
             a_to_vc += i + ":::" + a_to_ve[i].href + "\n";
@@ -153,3 +153,6 @@ function a_to_fa() {
     a_to_vf = protected_links.split(",");
     return a_to_vf;
 }
+
+5. Jika sudah silahkan Upload di yourjavascript atau Sites Google
+6. Jika sudah di Upload, silahkan kalian Simpan URL tersebut di dalam Page yang sudah kalian simpan Javascript (Langkah No.3)
